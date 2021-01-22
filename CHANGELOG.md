@@ -6,6 +6,11 @@ All notable changes to this project will be documented in this file.
 ## [Unreleased]
 
 
+<a name="unreleased"></a>
+## [v2.12.1] - 2021-01-22
+
+- fix: Allow destroy to be executed as plan & apply
+
 
 <a name="v2.12.0"></a>
 ## [v2.12.0] - 2020-11-04
